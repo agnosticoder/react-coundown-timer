@@ -6,7 +6,7 @@ import './styles/styles.scss';
 
 function RootComponent(){
     return (
-        <div className="container">
+        <div> 
             <App />
         </div>
     );

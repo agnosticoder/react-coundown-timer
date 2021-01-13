@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
 
 html{
     font-size: 62.5%;
@@ -9,7 +12,7 @@ html{
 body{
     font-family: "Roboto";
     font-size: $m-size;
-    background-color: $first;
+    background-color: $second;
     color: $forth;
 }
 
